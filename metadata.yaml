@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5663
     wikipedia: http://en.wikipedia.org/wiki/T._W._Rolleston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18305#Keltische-Mythen-en-Legenden
 gutenberg_issued: '2006-05-04'
 gutenberg_type: Text
 identifiers:
